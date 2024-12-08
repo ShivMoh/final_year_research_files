@@ -1,0 +1,9 @@
+{"time":"2024-11-20T19:54:13.683329663-04:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-20T19:54:13.683348889-04:00","level":"INFO","msg":"created symlink","path":"/home/shivesh/Documents/reseach_implementations/machine_learning/wandb/run-20241120_195413-sjik4vra/logs/debug-core.log"}
+{"time":"2024-11-20T19:54:13.792419165-04:00","level":"INFO","msg":"created new stream","id":"sjik4vra"}
+{"time":"2024-11-20T19:54:13.792848838-04:00","level":"INFO","msg":"stream: started","id":"sjik4vra"}
+{"time":"2024-11-20T19:54:13.793129986-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"sjik4vra"}}
+{"time":"2024-11-20T19:54:13.793184757-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"sjik4vra"}}
+{"time":"2024-11-20T19:54:13.793426142-04:00","level":"INFO","msg":"sender: started","stream_id":"sjik4vra"}
+{"time":"2024-11-20T19:54:14.591441758-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-20T19:58:44.221306505-04:00","level":"INFO","msg":"Pausing system monitor"}

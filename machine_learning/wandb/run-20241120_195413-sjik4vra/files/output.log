@@ -1,0 +1,7 @@
+{'loss': 1.125, 'grad_norm': 0.14157776534557343, 'learning_rate': 0.0002, 'epoch': 0.04}
+/home/shivesh/miniconda3/envs/deep_sort/lib/python3.8/site-packages/transformers/integrations/peft.py:418: FutureWarning: The `active_adapter` method is deprecated and will be removed in a future version.
+  warnings.warn(
+{'loss': 1.0991, 'grad_norm': 0.11837217211723328, 'learning_rate': 0.0002, 'epoch': 0.08}
+/home/shivesh/miniconda3/envs/deep_sort/lib/python3.8/site-packages/transformers/integrations/peft.py:418: FutureWarning: The `active_adapter` method is deprecated and will be removed in a future version.
+  warnings.warn(
+{'train_runtime': 263.2131, 'train_samples_per_second': 1.216, 'train_steps_per_second': 0.076, 'train_loss': 1.1120748043060302, 'epoch': 0.08}
